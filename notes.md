@@ -144,3 +144,4 @@ a special data format that contains:
 # [App Router](https://nextjs.org/learn/dashboard-app)
 - https://nextjs.org/learn/dashboard-app/getting-started
 
+# [CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
