@@ -148,3 +148,5 @@ a special data format that contains:
 - add a global CSS file to your application
 - Tailwind and CSS modules
 - conditionally add class names with the clsx utility package
+
+    https://nextjs.org/docs/app/getting-started/css
