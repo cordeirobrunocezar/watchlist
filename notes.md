@@ -150,3 +150,5 @@ a special data format that contains:
 - conditionally add class names with the clsx utility package
 
     https://nextjs.org/docs/app/getting-started/css
+
+# [Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
