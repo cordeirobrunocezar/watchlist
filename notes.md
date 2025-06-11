@@ -142,4 +142,5 @@ a special data format that contains:
 - [Summary and additional reading](https://nextjs.org/learn/react-foundations/server-and-client-components#summary)
 
 # [App Router](https://nextjs.org/learn/dashboard-app)
+- https://nextjs.org/learn/dashboard-app/getting-started
 
