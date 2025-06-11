@@ -145,3 +145,6 @@ a special data format that contains:
 - https://nextjs.org/learn/dashboard-app/getting-started
 
 # [CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
+- add a global CSS file to your application
+- Tailwind and CSS modules
+- conditionally add class names with the clsx utility package
